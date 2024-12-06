@@ -1,0 +1,10 @@
+{
+    "id_name": "character_sender",
+    "version": 1,
+    "author": "tom",
+    "name": "Character sender",
+    "description": "",
+    "dependencies": {
+        "is_admin":1
+    }
+}
